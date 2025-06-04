@@ -2,11 +2,10 @@
 
 I'm a CS Student working as a Software Dev
 
+I like to work on projects to reduce my screen time 🌱
 
-I like to work on projects to reduce my screen time :)
-
-- I built an Android OS Fork stripped from its browser and App Store over here: https://github.com/LudditeOS
-- Currently I am working on a Safari Browser Extension to stop Doomscrolling: https://github.com/OliverStaub/ScrollStop
+- 📲 I built an Android OS Fork stripped from its browser and App Store over here: https://github.com/LudditeOS
+- 🚨 Currently I am working on a Safari Browser Extension to stop Doomscrolling: https://github.com/OliverStaub/ScrollStop
 
 <!--
 **ostaubzug/ostaubzug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
